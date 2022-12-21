@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 166,
+      "ypos": 30,
+      "width": 692,
+      "height": 63,
+      "type": "match"
+    },
+    {
+      "xpos": 341,
+      "ypos": 111,
+      "width": 342,
+      "height": 629,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agl-drive-4-lane"
+  ]
+}
