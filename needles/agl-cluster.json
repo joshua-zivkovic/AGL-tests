@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 335,
+      "ypos": 95,
+      "width": 354,
+      "height": 646,
+      "type": "match"
+    },
+    {
+      "xpos": 838,
+      "ypos": 459,
+      "width": 39,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 463,
+      "width": 40,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 714,
+      "ypos": 548,
+      "width": 274,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agl-cluster"
+  ]
+}
