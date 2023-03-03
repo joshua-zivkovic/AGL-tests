@@ -14,11 +14,7 @@
       "width": 291,
       "height": 194,
       "type": "match",
-      "match": 50,
-      "click_point": {
-        "xpos": 145,
-        "ypos": 97
-      }
+      "match": 50
     }
   ],
   "properties": [],
