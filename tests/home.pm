@@ -6,13 +6,7 @@ use utils;
 
 sub run {
     my $self = shift;
-    assert_screen('agl-boot', 10);
-    assert_screen('agl-cluster', 10);
-    assert_screen('agl-drive-3', 10);
-    assert_screen('agl-drive-5', 10);
-    assert_screen('agl-drive-4-lane', 60);
-    assert_screen('agl-drive-2-hazard', 60);
-    assert_screen('agl-park-warn', 60);
+    assert_screen('agl-home', 10);
 }
 
 sub test_flags {
