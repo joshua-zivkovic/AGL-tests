@@ -6,7 +6,7 @@ use utils;
 
 sub run {
     my $self = shift;
-    assert_and_click('agl-home', 10)
+    assert_and_click('agl-home', 10);
     assert_screen('agl-home', 10);
 }
 
