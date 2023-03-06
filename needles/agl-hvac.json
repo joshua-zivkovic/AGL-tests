@@ -1,0 +1,28 @@
+{
+    "area": [
+      {
+        "xpos": 16,
+        "ypos": 10,
+        "width": 358,
+        "height": 197,
+        "type": "match",
+        "match": 50
+      },
+      {
+        "xpos": 742,
+        "ypos": 201,
+        "width": 291,
+        "height": 194,
+        "type": "match",
+        "match": 50,
+        "click_point": {
+            "xpos": 9536,
+            "ypos": 11936
+        }
+      }
+    ],
+    "properties": [],
+    "tags": [
+      "agl-home"
+    ]
+  }
