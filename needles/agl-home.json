@@ -16,10 +16,10 @@
       "type": "match",
       "match": 50,
       "click_point": {
-        "xpos": 3168,
-        "ypos" : 3888
-      }
+        "xpos": 9536,
+        "ypos": 11936
     }
+  }
   ],
   "properties": [],
   "tags": [

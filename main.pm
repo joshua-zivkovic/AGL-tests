@@ -8,6 +8,5 @@ require $distri;
 testapi::set_distribution(agldistro->new());
 
 autotest::loadtest "tests/home.pm";
-autotest::loadtest "tests/hvac.pm";
 
 1;

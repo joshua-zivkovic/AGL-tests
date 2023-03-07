@@ -7,6 +7,7 @@ use utils;
 sub run {
     my $self = shift;
     assert_and_click('agl-home', timeout => 10);
+    assert_and_click('agl-hvac', timeout => 10);
     assert_screen('agl-home', 10);
 }
 
